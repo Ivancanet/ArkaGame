@@ -1,0 +1,14 @@
+#game{
+    height: 700px;
+    width: 650px;
+    border: 2px solid black;
+}
+
+header{
+    text-align: center;
+}
+
+.game-content{
+    display: flex;
+    justify-content: center;
+}
